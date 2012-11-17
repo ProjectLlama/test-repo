@@ -9,5 +9,6 @@ TEST
 TEST
 TEST
 TEST
+TEST
 
 Read the commit message noobs.
